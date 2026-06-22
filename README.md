@@ -119,4 +119,4 @@ If you found this project helpful or fun, please consider giving it a **⭐ star
 ---
 
 *IF YOU WANT SUGGEST SOME MORE FEATURES YOU CAN CONNECT WITH ME ON*
-🔗 **LinkedIn** — [Dev srivastava](https://www.linkedin.com/in/the-engineer-dev)
+🔗 **LinkedIn** — [Dev srivastava](https://www.linkedin.com/in/dev-srivastava-950417397/)
